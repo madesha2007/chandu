@@ -1,6 +1,6 @@
 a=int(input("enter the number:"))
 b=int(input("enter the number:"))
-add=ab
+add=a+b
 sub=a-b
 mul=a*b
 div=a/b
@@ -14,4 +14,5 @@ print("div:",a/b)
 print("fd:",a//b)
 print("mod:",a%b)
 print("exp:",a**b)
+
 
