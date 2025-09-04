@@ -1,5 +1,6 @@
 a=int(input("enter first num:))
-a=int(input("enter first num:"))
-c=a+b
+a=int(input("enter second num:"))
+c=a+=b
 print(c)
+
 
